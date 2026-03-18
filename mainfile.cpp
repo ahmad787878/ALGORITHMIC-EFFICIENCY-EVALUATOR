@@ -1,7 +1,7 @@
 /**
  * ALGORITHMIC EFFICIENCY EVALUATOR
  * --------------------------------
- * Author: Ahmad Abdullah
+ * Author: Ahmad Abdullah Shafiq
  * Description: An automated stress-testing and benchmarking framework.
  * Demonstrates the empirical difference between O(n^2) and O(n log n) 
  * time complexities using high-resolution timing, while validating logic 
